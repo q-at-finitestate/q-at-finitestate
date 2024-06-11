@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @q-at-finitestate
-- 👀 I’m interested in the application of Machine Learning to the problem of Program Analysis.
-- 🌱 I’m currently learning to combine various neural network architectures to solve Program Analysis problems.
+- 👀 I’m interested in the application of Machine Learning to the problem of Binary Analysis.
+- 🌱 I’m currently learning to combine various neural network architectures to solve Binary Analysis problems.
 - 💞️ I’m looking to collaborate on anything related to the above! 
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
