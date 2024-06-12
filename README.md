@@ -2,7 +2,7 @@
 - 👀 I’m interested in the application of Machine Learning to the problem of Binary Analysis.
 - 🌱 I’m currently learning to combine various neural network architectures to solve Binary Analysis problems.
 - 💞️ I’m looking to collaborate on anything related to the above! 
-- 📫 How to reach me ...
+- 📫 How to reach me ... scream into the void.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a farmer, sailor and love my pup, Link 🐶.
 
